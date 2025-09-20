@@ -1,0 +1,41 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- HYDR
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+name: Hydrogen Extractor
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/hydrogen-extractor/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/hydrogen-extractor/1.png
+      left: -31
+      top: 2
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/hydrogen-extractor/3.png
+      left: -31
+      top: 0
+type: primary

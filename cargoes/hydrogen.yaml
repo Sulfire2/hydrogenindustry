@@ -1,0 +1,17 @@
+abbreviation: HY
+available: false
+classes: 16
+colour: 215
+id: 0
+label: HYDR
+longName: hydrogen
+name: Hydrogen
+penaltyLength: 106
+penaltyLowerBound: 26
+price: 6168
+sprite:
+  filename: cargoes/hydrogen.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
