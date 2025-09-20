@@ -1,4 +1,6 @@
-description: A new TrueGRF project
+description: A small mod that adds Hydrogen extraction to the game
 license: CC0-1.0
+name: Hydrogen Industry
 type: industry
+url: hydrogenindustry
 version: 6
